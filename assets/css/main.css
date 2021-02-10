@@ -3004,8 +3004,8 @@ input, select, textarea {
 		}
 
 		.spotlights > section > .image {
-			background-position: center center;
-			background-size: cover;
+			/* background-position: center center; */
+			/* background-size: cover; */
 			border-radius: 0;
 			display: block;
 			position: relative;
@@ -3907,3 +3907,21 @@ input, select, textarea {
 			}
 
 		}
+
+
+.logo_black {
+	background-color: black;
+	display: flex;
+	background-repeat: no-repeat;
+	
+}
+
+.logo-img {
+	align-self: center;
+}
+
+.logo_white {
+	background-color: white;
+	display: flex;
+	background-repeat: no-repeat;
+}
