@@ -4012,6 +4012,16 @@ input, select, textarea {
 	justify-self: center;
 }
 
+.headshot {
+	display: flex;
+	justify-content: center;
+	margin-top: 15px;
+}
 
 
+.headshot img {
+	width: 300px;
+	height: auto;
+	border-radius: 50%;
+}
 
